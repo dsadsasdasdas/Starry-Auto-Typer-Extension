@@ -1,2 +1,11 @@
-# Starry-Auto-Typer-Extension
-A humanized autotyper, featuring customized WPM and fake typo correction. Free and open sourced.
+# Starry-Auto-Typer
+A humanized autotyper extension, featuring customized WPM and fake typo correction and a sleek UI. Free and open sourced.
+
+**How to install chrome extension**
+1. Download as a zip file.
+2. Enable developer mode on chrome extension page if not done already.
+3. Extract extension in files
+4. Press "load unpacked" button on extension page
+5. Select extension and you are done.
+
+**PLEASE STAR**
