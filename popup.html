@@ -1,0 +1,27 @@
+<!-- Please do not copy or redistribute this code without permission. -->
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="popup.css" />
+    <title>Starry</title>
+  </head>
+  <body>
+    <main>
+      <h1>Starry</h1>
+      <p>Click a text field on the page, then start typing.</p>
+      <label for="text">Text to type</label>
+      <textarea id="text" placeholder="Write or paste text here…"></textarea>
+      <label for="speed">Speed: <output id="speedValue">60 WPM</output></label>
+      <input id="speed" type="range" min="10" max="150" value="60" step="5" />
+      <label class="option"><input id="humanMode" type="checkbox" checked /> Simulate occasional corrected typos</label>
+      <div class="actions">
+        <button id="start">Start</button>
+        <button id="stop" class="secondary">Stop</button>
+      </div>
+      <p id="status" role="status" aria-live="polite"></p>
+    </main>
+    <script src="popup.js"></script>
+  </body>
+</html>
