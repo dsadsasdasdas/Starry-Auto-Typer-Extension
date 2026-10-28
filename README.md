@@ -8,4 +8,7 @@ A humanized autotyper extension, featuring customized WPM and fake typo correcti
 4. Press "load unpacked" button on extension page
 5. Select extension and you are done.
 
+**IMPORTANT**
+When loading extension, if "Manifest is missing" make sure you click the second folder once you unzip
+
 **PLEASE STAR**
