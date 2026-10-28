@@ -1,4 +1,4 @@
-# ETyper-Auto-Typer
+# Starry-Auto-Typer
 A humanized autotyper extension, featuring customized WPM and fake typo correction and a sleek UI. Free and open sourced.
 
 **How to install chrome extension**
